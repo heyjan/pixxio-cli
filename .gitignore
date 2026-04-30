@@ -1,3 +1,5 @@
 bin/
 .tools/
 *.exe
+openapi.json
+steipete-go-cli-methodology.md
